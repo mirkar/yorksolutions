@@ -7,5 +7,5 @@ Here is a screenshot of one of two resource groups actually created by terraform
 
 I had to create the second scale set not in westus but in westus2, since westus doesn't have B1s image size available, and this is what I normally use in my personal exercises. Scale sets have capacity only 1 instance each to save resources.
 
-
+Below you can see a rough scketch of Network Topology from Q2.
 ![Sketch](https://github.com/mirkar/yorksolutions/blob/master/images/UHDiagram.png)
